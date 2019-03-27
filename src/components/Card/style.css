@@ -1,0 +1,14 @@
+.card {
+  height: 200px;
+  width: 150px;
+  border: black solid 5px;
+  background: white;
+  box-shadow: 0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
+}
+
+img {
+  height: 180px;
+  width: 125px;
+  align-content: center;
+}
+
